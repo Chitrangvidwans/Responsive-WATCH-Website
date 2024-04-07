@@ -6,7 +6,7 @@
   --header-height: 3.5rem;
 
 
-  --first-color: hsl(31, 100%, 70%);
+  --first-color: hsl(185, 65%, 71%);
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 21%);
   --title-color: hsl(0, 0%, 15%);
@@ -107,7 +107,7 @@ button {
 
 
 body.dark-theme {
-  --first-color: hsl(31, 76%, 74%);
+  --first-color: hsl(185, 65%, 71%);
   --button-color: hsl(0, 0%, 24%);
   --button-color-alt: hsl(0, 0%, 28%);
   --title-color: hsl(0, 0%, 95%);
